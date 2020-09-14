@@ -21,7 +21,7 @@ Download lecture from [here](https://github.com/SSDS-Croatia/SSDS-2020/raw/maste
 * Hands-on session: Embedding-based multi-network analysis at scale
 * Hands-on session: Pattern and anomaly mining in large, evolving graphs
 
-The **Lecture** subfolder contains materials from presentations.
+You can download the **lecture** from [here](https://web.eecs.umich.edu/~dkoutra/20-Koutra-SSDS-day4.pdf). 
 
 The **Hands-on** subfolder contains materials for hands-on examples.
 
